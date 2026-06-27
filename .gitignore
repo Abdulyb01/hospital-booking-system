@@ -1,0 +1,26 @@
+# PHP
+*.log
+config/db.php
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Node (if using npm)
+node_modules/
+package-lock.json
+
+# Environment
+.env
+.env.local
+
+# Uploads
+upload/
+temp/
